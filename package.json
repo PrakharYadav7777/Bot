@@ -1,16 +1,14 @@
 {
-  "name": "afkbot",
+  "name": "bot",
   "version": "1.0.0",
-  "description": "",
+  "description": "test",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "MannuG",
+  "author": "",
   "license": "ISC",
   "dependencies": {
-    "config": "^3.3.3",
-    "fs": "0.0.1-security",
-    "mineflayer": "^2.37.1"
+    "mineflayer": "^4.1.0"
   }
 }
